@@ -1,4 +1,4 @@
-# HTML Email Templates: basic info
+# HTML Email Templates: statistics, tips, tools
 
 ## Table of Contents
 
@@ -44,6 +44,7 @@
 - [Don't use forms](https://habrahabr.ru/company/pechkin/blog/268927/)
 - [A Guide to Bulletproof Buttons in Email Design](https://litmus.com/blog/a-guide-to-bulletproof-buttons-in-email-design)
 - [Номера телефонов в почтовых клиентах](https://habrahabr.ru/post/269045/)
+- [Mailchimp: All the Merge Tags Cheat Sheet](http://kb.mailchimp.com/merge-tags/all-the-merge-tags-cheat-sheet)
 
 ## Static Email Frameworks
 
@@ -107,6 +108,7 @@
 
 ## Tools for Testing
 - [https://putsmail.com/tests/new](https://putsmail.com/tests/new)
+- [MailerLite: Send Beautiful Emails](https://www.mailerlite.com/)
 - [MailList Controller for Windows](https://www.arclab.com/en/amlc/)
 
 ## Inliners
