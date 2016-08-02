@@ -21,6 +21,7 @@
 
 - [Верстка email рассылок от А до Я для чайников](https://habrahabr.ru/post/252279/)
 - [Сумбурно о разработке писем](https://habrahabr.ru/post/267499/)
+- [HTML Styleguide for Email](https://github.com/InterNations/antwort/wiki/HTML-Styleguide-for-Email)
 - [The Ultimate Guide to CSS (поддержка CSS свойств клиентами)](https://www.campaignmonitor.com/css/)
 
 ### Images
