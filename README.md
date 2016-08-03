@@ -123,6 +123,7 @@
 
 - [Responsive Email Resources](http://responsiveemailresources.com/)
 - [Responsive Email Patterns](http://responsiveemailpatterns.com/)
+- [Coding mobile-first emails: A practical step-by-step guide](https://medium.com/cm-engineering/coding-mobile-first-emails-1513ac4673e)
 
 ## Grunt/Gulp
 
