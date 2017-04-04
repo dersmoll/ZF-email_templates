@@ -13,7 +13,7 @@
 - [Tools for Testing](#tools-for-testing)
 - [Grunt/Gulp](#grunt-gulp)
 
-![Actual Clients](http://frontender.com.ua/email_templates/clients.png  "Actual Clients")
+![Actual Clients](http://c2n.me/3Ja4zkP.png  "Actual Clients")
 
 ## Common Tips
 
@@ -21,6 +21,9 @@
 
 - [Верстка email рассылок от А до Я для чайников](https://habrahabr.ru/post/252279/)
 - [Сумбурно о разработке писем](https://habrahabr.ru/post/267499/)
+- [Гид по верстке адаптивных писем](https://habrahabr.ru/company/netologyru/blog/324970/)
+- [The Ultimate Guide to Email on Android](https://litmus.com/blog/the-ultimate-guide-to-email-on-android)
+- [Developing HTML Emails for Gmail: 12 Things you MUST know](https://www.emailonacid.com/blog/article/email-development/12_things_you_must_know_when_developing_for_gmail_and_gmail_mobile_apps/)
 - [HTML Styleguide for Email](https://github.com/InterNations/antwort/wiki/HTML-Styleguide-for-Email)
 - [The Ultimate Guide to CSS (поддержка CSS свойств клиентами)](https://www.campaignmonitor.com/css/)
 
@@ -44,6 +47,7 @@
 ### Other Tips
 - [Don't use forms](https://habrahabr.ru/company/pechkin/blog/268927/)
 - [A Guide to Bulletproof Buttons in Email Design](https://litmus.com/blog/a-guide-to-bulletproof-buttons-in-email-design)
+- [Bulletproof HTML Email Buttons - A New Line-height Based Approach](http://blog.edmdesigner.com/bulletproof-html-email-buttons-a-new-line-height-based-approach/)
 - [Номера телефонов в почтовых клиентах](https://habrahabr.ru/post/269045/)
 - [Mailchimp: All the Merge Tags Cheat Sheet](http://kb.mailchimp.com/merge-tags/all-the-merge-tags-cheat-sheet)
 
@@ -124,6 +128,7 @@
 - [Responsive Email Resources](http://responsiveemailresources.com/)
 - [Responsive Email Patterns](http://responsiveemailpatterns.com/)
 - [Coding mobile-first emails: A practical step-by-step guide](https://medium.com/cm-engineering/coding-mobile-first-emails-1513ac4673e)
+- [Things I've Learned About Responsive Email Design](http://www.leemunroe.com/responsive-email-design/)
 
 ## Grunt/Gulp
 
